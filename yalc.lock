@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "rfid-reader-input": {
+      "signature": "576b5c9e9e04f3cdba1a4e41611b884a",
+      "file": true
+    }
+  }
+}

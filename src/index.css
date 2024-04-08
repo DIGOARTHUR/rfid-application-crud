@@ -1,0 +1,11 @@
+@tailwind base;
+
+@layer base {
+    html {
+      @apply bg-[#EEEEEE];
+    }
+ 
+  }
+
+@tailwind components;
+@tailwind utilities;
