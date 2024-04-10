@@ -93,7 +93,9 @@ EXEMPLO
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> This is an application that shows in practice the use of the RFID Reader. Make data queries and records just by approaching a card.
+> This is an application that shows in practice the use of the RFID Reader. Make data queries and records just by approaching a card. 
+Here a component,  [`rfid-reader-input`](https://github.com/DIGOARTHUR/rfid-reader-input), was used to input data from the RFID Reader, providing a better experience for the user. 
+
   
   
 <!------------------------------------LAYOUT -->
