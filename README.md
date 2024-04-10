@@ -163,7 +163,7 @@ EXEMPLO
  <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
  *  [`rfid-reader-input`](https://github.com/DIGOARTHUR/rfid-reader-input/tree/main) (Biblioteca utilizada para otimizar a busca, armazenamento em cache e atualização dos dados remotos)
  *  [`tailwindCSS`](https://tailwindcss.com) (Rapidly build modern websites without ever leaving your HTML.)
- *  [`react-modal`]([https://miragejs.com](https://www.npmjs.com/package/react-modal)) (Floating window)
+ *  [`react-modal`](https://www.npmjs.com/package/react-modal) (Floating window)
 
 
  ### Versionameto
