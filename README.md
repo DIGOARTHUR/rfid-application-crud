@@ -182,7 +182,7 @@ Here a component,  [`rfid-reader-input`](https://github.com/DIGOARTHUR/rfid-read
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/rfid-application.git
+git clone https://github.com/DIGOARTHUR/rfid-application-demo.git
 ```
 
 2. Instalar dependências
